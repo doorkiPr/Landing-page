@@ -7,7 +7,14 @@ a{
 }
 ul{
     list-style: none;
+    display: flex;
 }
 .image{
     height: 100px;
 }
+
+.header{
+    display: flex;
+
+}
+
