@@ -84,3 +84,10 @@ ul{
     font-weight: bolder;
     color: #1f2937;
 }
+
+.caroussel{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
