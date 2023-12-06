@@ -35,7 +35,6 @@ ul{
     height: 250px;
     width: 650px;
     background-color: lightgrey;
-    flex-shrink: 0;
 }
 
 .description{
@@ -72,4 +71,9 @@ ul{
 .signin:hover{
     color:#e5e7eb ;
     cursor: grab;
+}
+
+.carousselElement{
+    display: flex;
+    flex-direction: column;
 }
