@@ -77,6 +77,8 @@ ul{
     display: flex;
     flex-direction: column;
     background-color: #f9faf8;
+    justify-content: center;
+    align-items: center;
 }
 
 .carousselTitle{
