@@ -121,6 +121,7 @@ ul{
     flex-direction: column;
     justify-content: center;
     background-color: rgb(229 231 235);
+    padding: 150px 300px 150px;
 }
 .quoteText{
     font-size: 36px;
