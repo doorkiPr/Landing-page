@@ -181,3 +181,11 @@ ul{
     color:#e5e7eb ;
     cursor: grab;
 }
+
+.footer{
+    height: 150px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
