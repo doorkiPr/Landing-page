@@ -112,3 +112,7 @@ ul{
     border: 3px solid #3882f6;
     border-radius: 10px;
 }
+.cardTitle{
+    color: rgb(115 123 134);
+    font-weight: 500;
+}
