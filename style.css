@@ -146,8 +146,9 @@ ul{
 
 .callToActionWrapper{
     display: flex   ;
-    justify-content: center;
+    justify-content: space-around;
     background-color: #3882f6;
     width: 800px;
+    padding: 30px;
 }
 
