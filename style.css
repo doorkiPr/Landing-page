@@ -120,6 +120,7 @@ ul{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: rgb(229 231 235);
 }
 .quoteText{
     font-size: 36px;
