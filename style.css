@@ -164,3 +164,16 @@ ul{
 .callDescription{
     color: #e5e7eb;
 }
+
+.callButton{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: #f9faf8 solid 2px;
+    width: 125px;
+    height: 40px;
+    border-radius: 7px;
+    align-self: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
