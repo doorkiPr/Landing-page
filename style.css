@@ -20,3 +20,8 @@ ul{
     justify-content: space-around;
 }
 
+.information{
+    display: flex;
+    gap: 15px;
+}
+
