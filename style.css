@@ -116,3 +116,8 @@ ul{
     color: rgb(115 123 134);
     font-weight: 500;
 }
+.quoteElement{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
