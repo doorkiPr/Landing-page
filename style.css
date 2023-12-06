@@ -54,3 +54,7 @@ ul{
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.signin{
+    align-self: flex-start;
+}
