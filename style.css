@@ -144,3 +144,9 @@ ul{
     justify-content: center;
 }
 
+.callToActionWrapper{
+    display: flex   ;
+    background-color: #3882f6;
+    width: 800px;
+}
+
