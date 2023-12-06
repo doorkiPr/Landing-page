@@ -93,15 +93,14 @@ ul{
     margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
-    justify-content: center;
+    gap: 65px;
     align-items: center;
 }
 .card{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap:10px;
+    text-align: center;
     max-width: min-content;
 }
 .cardImg{
