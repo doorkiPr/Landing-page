@@ -76,4 +76,11 @@ ul{
 .carousselElement{
     display: flex;
     flex-direction: column;
+    background-color: #f9faf8;
+}
+
+.carousselTitle{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
 }
