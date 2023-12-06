@@ -33,12 +33,13 @@ ul{
 
 .placeholder{
     height: 250px;
-    width: 35%;
+    width: 650px;
     background-color: lightgrey;
+    flex-shrink: 0;
 }
 
 .description{
-    width: 30%;
+    width: 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
