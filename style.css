@@ -149,6 +149,7 @@ ul{
     display: flex   ;
     justify-content: space-around;
     background-color: #3882f6;
+    border-radius: 8px;
     width: 800px;
     padding: 30px;
 }
